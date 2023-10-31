@@ -1,0 +1,46 @@
+// Пины для светодиодов
+const int LED_RED = D0;
+const int LED_YELLOW = D1;
+const int LED_GREEN = D2;
+
+// Пин для кнопки
+const int BUTTON = D3;
+
+// Время для каждого состояния светофора в миллисекундах
+const unsigned long RED_TIME = 1000; // 1 секунд
+const unsigned long YELLOW_TIME = 1000; // 1 секунды
+const unsigned long GREEN_TIME = 1000; // 1 секунд
+
+unsigned long lastButtonPress = 0; // Переменная для хранения времени последнего нажатия
+
+int currentColor = LED_RED; // Начинаем с красного цвета
+
+void setup() {
+// Инициализация пинов для светодиодов и кнопки
+pinMode(LED_RED, OUTPUT);
+pinMode(LED_YELLOW, OUTPUT);
+pinMode(LED_GREEN, OUTPUT);
+pinMode(BUTTON, INPUT_PULLUP);
+}
+
+void loop() {
+// Проверяем, была ли нажата кнопка и прошло ли достаточно времени с последнего нажатия
+if (digitalRead(BUTTON) == LOW && (millis() - lastButtonPress) > 1000) {
+lastButtonPress = millis();
+
+// Выключаем текущий цвет
+digitalWrite(currentColor, LOW);
+
+// Переключаемся на следующий цвет
+if (currentColor == LED_RED) {
+currentColor = LED_YELLOW;
+} else if (currentColor == LED_YELLOW) {
+currentColor = LED_GREEN;
+} else {
+currentColor = LED_RED;
+}
+
+// Включаем новый цвет
+digitalWrite(currentColor, HIGH);
+}
+}

@@ -1,0 +1,56 @@
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\bin\Debug\net6.0\Clientpipe.exe
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\bin\Debug\net6.0\Clientpipe.deps.json
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\bin\Debug\net6.0\Clientpipe.runtimeconfig.json
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\bin\Debug\net6.0\Clientpipe.dll
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\bin\Debug\net6.0\Clientpipe.pdb
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\Clientpipe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\Clientpipe.AssemblyInfoInputs.cache
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\Clientpipe.AssemblyInfo.cs
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\Clientpipe.csproj.CoreCompileInputs.cache
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\Clientpipe.dll
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\refint\Clientpipe.dll
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\Clientpipe.pdb
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\Clientpipe.genruntimeconfig.cache
+D:\Orders\Dimitri\lab1\Client\Clientpipe\Clientpipe\obj\Debug\net6.0\ref\Clientpipe.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\bin\Debug\net6.0\Clientpipe.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\bin\Debug\net6.0\Clientpipe.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\bin\Debug\net6.0\Clientpipe.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\bin\Debug\net6.0\Clientpipe.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\bin\Debug\net6.0\Clientpipe.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\Clientpipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\Clientpipe.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\Clientpipe.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\Clientpipe.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\Clientpipe.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\refint\Clientpipe.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\Clientpipe.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\Clientpipe.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\client\ClientPipe\obj\Debug\net6.0\ref\Clientpipe.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\refint\Clientpipe.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\lab1\Clientpipe\obj\Debug\net6.0\ref\Clientpipe.dll
+D:\эвм и периф устройства\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.exe
+D:\эвм и периф устройства\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.deps.json
+D:\эвм и периф устройства\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.runtimeconfig.json
+D:\эвм и периф устройства\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.dll
+D:\эвм и периф устройства\lab1\Clientpipe\bin\Debug\net6.0\Clientpipe.pdb
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.GeneratedMSBuildEditorConfig.editorconfig
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.AssemblyInfoInputs.cache
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.AssemblyInfo.cs
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.csproj.CoreCompileInputs.cache
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.dll
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\refint\Clientpipe.dll
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.pdb
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\Clientpipe.genruntimeconfig.cache
+D:\эвм и периф устройства\lab1\Clientpipe\obj\Debug\net6.0\ref\Clientpipe.dll

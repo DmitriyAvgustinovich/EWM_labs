@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "j9WEdL83urpFu3WDCrWgZnRlmbax7bM1z2zeQpWmT4PtuGdDDbLQOXxuf8mFWpon7Ntx+Fr7Li0pEhkB5AbW/g==",
+  "success": true,
+  "projectFilePath": "D:\\эвм и периф устройства\\lab1\\Clientpipe\\Clientpipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQkUkPWWwms0bdkQyAWC0936Iq7Z5HakhAyex+XLpDc5MfBvFjtst64w68445TA0lMTuZqoEYo46h3J3kwePkQ==",
+  "success": true,
+  "projectFilePath": "D:\\эвм и периф устройства\\lab1\\PipeDataExchange\\PipeDataExchange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

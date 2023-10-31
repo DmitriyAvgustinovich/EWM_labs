@@ -1,0 +1,38 @@
+const int LED_RED = D0;
+const int LED_YELLOW = D1;
+const int LED_GREEN = D2;
+
+const int BUTTON = D3;
+
+const unsigned long RED_TIME = 1000; 
+const unsigned long YELLOW_TIME = 1000; 
+const unsigned long GREEN_TIME = 1000; 
+
+int currentColor = LED_RED; 
+
+void changeColor() {
+digitalWrite(currentColor, LOW);
+
+if (currentColor == LED_RED) {
+currentColor = LED_YELLOW;
+} else if (currentColor == LED_YELLOW) {
+currentColor = LED_GREEN;
+} else {
+currentColor = LED_RED;
+}
+
+// Включаем новый цвет
+digitalWrite(currentColor, HIGH);
+}
+
+void setup() {
+pinMode(LED_RED, OUTPUT);
+pinMode(LED_YELLOW, OUTPUT);
+pinMode(LED_GREEN, OUTPUT);
+pinMode(BUTTON, INPUT_PULLUP);
+
+attachInterrupt(digitalPinToInterrupt(BUTTON), changeColor, FALLING);
+}
+
+void loop() {
+}
