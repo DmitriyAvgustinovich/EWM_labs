@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\эвм и периф устройства\\lab1\\Clientpipe\\Clientpipe.csproj": {}
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab1\\Clientpipe\\Clientpipe.csproj": {}
   },
   "projects": {
-    "D:\\эвм и периф устройства\\lab1\\Clientpipe\\Clientpipe.csproj": {
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab1\\Clientpipe\\Clientpipe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\эвм и периф устройства\\lab1\\Clientpipe\\Clientpipe.csproj",
+        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab1\\Clientpipe\\Clientpipe.csproj",
         "projectName": "Clientpipe",
-        "projectPath": "D:\\эвм и периф устройства\\lab1\\Clientpipe\\Clientpipe.csproj",
+        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab1\\Clientpipe\\Clientpipe.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "D:\\эвм и периф устройства\\lab1\\Clientpipe\\obj\\",
+        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab1\\Clientpipe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

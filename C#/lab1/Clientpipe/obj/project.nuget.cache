@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j9WEdL83urpFu3WDCrWgZnRlmbax7bM1z2zeQpWmT4PtuGdDDbLQOXxuf8mFWpon7Ntx+Fr7Li0pEhkB5AbW/g==",
+  "dgSpecHash": "8ruliZa/61q60VPy5lWjQa746VUl3Isx93A4n6JZnA62PEA0QLRwpFTHv1oO+AXF6KlbXJtMmaY1rsesR/8dcA==",
   "success": true,
-  "projectFilePath": "D:\\эвм и периф устройства\\lab1\\Clientpipe\\Clientpipe.csproj",
+  "projectFilePath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab1\\Clientpipe\\Clientpipe.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",

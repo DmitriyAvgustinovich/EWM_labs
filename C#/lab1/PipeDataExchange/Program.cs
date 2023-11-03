@@ -1,5 +1,4 @@
 ﻿using System.IO.Pipes;
-using System.Text;
 
 namespace PipeServer
 {
@@ -7,17 +6,14 @@ namespace PipeServer
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = Encoding.UTF8;
             using NamedPipeServerStream pipeServer = new("testpipe", PipeDirection.InOut);
 
             Console.WriteLine("Ожидание клиента...");
             pipeServer.WaitForConnection();
-
             Console.WriteLine("Клиент подключен.");
 
             var data = new DataStruct { Field1 = 10, Field2 = 20 };
-            byte[] sendData = DataStructToBytes(data);
-            pipeServer.Write(sendData, 0, sendData.Length);
+            pipeServer.Write(DataStructToBytes(data));
 
             byte[] buffer = new byte[1000];
             int bytesRead = pipeServer.Read(buffer, 0, buffer.Length);

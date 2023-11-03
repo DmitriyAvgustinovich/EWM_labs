@@ -54,3 +54,17 @@ D:\эвм и периф устройства\lab1\PipeDataExchange\obj\Debug\net
 D:\эвм и периф устройства\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.pdb
 D:\эвм и периф устройства\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.genruntimeconfig.cache
 D:\эвм и периф устройства\lab1\PipeDataExchange\obj\Debug\net6.0\ref\PipeDataExchange.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\bin\Debug\net6.0\PipeDataExchange.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\bin\Debug\net6.0\PipeDataExchange.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\bin\Debug\net6.0\PipeDataExchange.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\bin\Debug\net6.0\PipeDataExchange.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\bin\Debug\net6.0\PipeDataExchange.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\refint\PipeDataExchange.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\PipeDataExchange.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab1\PipeDataExchange\obj\Debug\net6.0\ref\PipeDataExchange.dll
