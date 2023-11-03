@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\эвм и периф устройства\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj": {}
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj": {}
   },
   "projects": {
-    "D:\\эвм и периф устройства\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj": {
+    "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\эвм и периф устройства\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj",
+        "projectUniqueName": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj",
         "projectName": "PipeDataExchangeSystemClient",
-        "projectPath": "D:\\эвм и периф устройства\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj",
+        "projectPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "D:\\эвм и периф устройства\\lab2\\PipeDataExchangeSystemClient\\obj\\",
+        "outputPath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab2\\PipeDataExchangeSystemClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

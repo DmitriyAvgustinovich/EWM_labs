@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5kFADzJaNVWZLu7Fo468hWO7prTd4xrk15HT9UYaQhuTDY5sh9xTScfVJ+RwuUZUfIBDyUWWKbggv9QJR0EjRg==",
+  "dgSpecHash": "G3FWN8pZo0Jv0aMNtSElLRtMfAoubaYALsls4ypPOaDAdVRbsWsa+WzFueaCnR/900bdB4s8ZTU3mw9teGSgkA==",
   "success": true,
-  "projectFilePath": "D:\\эвм и периф устройства\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj",
+  "projectFilePath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
