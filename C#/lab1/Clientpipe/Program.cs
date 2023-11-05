@@ -5,7 +5,7 @@ namespace PipeClient
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.OutputEncoding = Encoding.UTF8;
             using NamedPipeClientStream pipeClient = new(".", "testpipe", PipeDirection.InOut);
@@ -16,7 +16,7 @@ namespace PipeClient
             byte[] buffer = new byte[1000];
             pipeClient.Read(buffer, 0, buffer.Length);
             var receivedData = DeserializeData(buffer);
-            
+
             Console.WriteLine("Получены данные от сервера:");
             Console.WriteLine($"Field1: {receivedData.Field1}, Field2: {receivedData.Field2}");
 

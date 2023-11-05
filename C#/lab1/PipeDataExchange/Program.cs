@@ -4,7 +4,7 @@ namespace PipeServer
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             using NamedPipeServerStream pipeServer = new("testpipe", PipeDirection.InOut);
 
