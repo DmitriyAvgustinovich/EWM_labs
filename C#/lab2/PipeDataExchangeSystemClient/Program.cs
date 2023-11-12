@@ -1,53 +1,54 @@
 ﻿using System.IO.Pipes;
-using System.Text;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
 
 namespace PipeClient
 {
+    public struct Data
+    {
+        public int Value;
+        public bool Confirm;
+    }
+
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            using NamedPipeClientStream pipeClient = new(".", "testpipe", PipeDirection.InOut);
-
-            pipeClient.Connect();
-            Console.WriteLine("Соединение установлено.");
-
-            var buffer = new List<byte>();
-
-            byte[] readBuffer = new byte[12];
-
-            while (true)
+            try
             {
-                int bytesRead = pipeClient.Read(readBuffer, 0, readBuffer.Length);
-                if (bytesRead > 0)
+                Console.WriteLine("Соединение с сервером...");
+
+                var pipeStream = new NamedPipeClientStream(".", "pipe", PipeDirection.InOut);
+                pipeStream.Connect();
+
+                Console.WriteLine("Соединение установлено");
+                Console.WriteLine("Ожидание данных...");
+
+                while (true)
                 {
-                    buffer.AddRange(readBuffer);
-                    if (buffer.Count >= 12)
+                    byte[] buffer = new byte[Unsafe.SizeOf<Data>()];
+                    pipeStream.Read(buffer);
+
+                    var data = MemoryMarshal.Read<Data>(buffer);
+                    Console.WriteLine($"Получено: {data.Value}, {data.Confirm}");
+
+                    data.Confirm = true;
+                    Console.WriteLine($"Отправлено: {data.Value}, {data.Confirm}");
+
+                    byte[] resBuffer = new byte[Unsafe.SizeOf<Data>()];
+                    MemoryMarshal.Write(resBuffer, ref data);
+
+                    using (var fileStream = new FileStream("output.txt", FileMode.Append, FileAccess.Write))
                     {
-                        var receivedData = DeserializeData(buffer.GetRange(0, 12).ToArray());
-                        Console.WriteLine("Получены данные от сервера:");
-                        Console.WriteLine($"Field1: {receivedData.Field1}, Field2: {receivedData.Field2}, Priority: {receivedData.Priority}");
-                        buffer.RemoveRange(0, 12);
+                        fileStream.Write(resBuffer, 0, resBuffer.Length);
                     }
+                    
+                    pipeStream.Write(resBuffer);
                 }
             }
-        }
-
-        public struct CustomData
-        {
-            public int Field1 { get; set; }
-            public int Field2 { get; set; }
-            public int Priority { get; set; }
-        }
-
-        static CustomData DeserializeData(byte[] bytes)
-        {
-            Span<byte> span = new(bytes);
-            int field1 = span[0] | (span[1] << 8);
-            int field2 = span[2] | (span[3] << 8);
-            int priority = span[4] | (span[5] << 8);
-            return new CustomData { Field1 = field1, Field2 = field2, Priority = priority };
+            catch
+            {
+            }
         }
     }
 }
