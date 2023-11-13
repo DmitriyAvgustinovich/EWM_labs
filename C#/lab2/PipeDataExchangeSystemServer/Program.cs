@@ -235,3 +235,57 @@ namespace PipeServer
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+private static Task ServerTask(NamedPipeServerStream pipeStream, CancellationToken token)
+{
+    return Task.Run(() =>
+    {
+        List<Data> process = new();
+
+        while (!token.IsCancellationRequested)
+        {
+            try
+            {
+                if (adQueue.Count >= 1)
+                {
+                    mutex.WaitOne();
+                    var data = adQueue.Dequeue();
+                    mutex.ReleaseMutex();
+
+                    byte[] buffer = new byte[Unsafe.SizeOf<Data>()];
+                    MemoryMarshal.Write(buffer, ref data);
+
+                    pipeStream.Write(buffer);
+
+                    byte[] resBuffer = new byte[Unsafe.SizeOf<Data>()];
+                    pipeStream.Read(resBuffer);
+
+                    process.Add(MemoryMarshal.Read<Data>(resBuffer));
+
+                    using (var fileStream = new FileStream("output.txt", FileMode.Append, FileAccess.Write))
+                    {
+                        fileStream.Write(resBuffer, 0, resBuffer.Length);
+                    }
+                }
+            }
+            catch (Exception)
+            {
+                // Handle exception
+            }
+        }
+
+        foreach (var entity in process)
+        {
+            Console.WriteLine(entity);
+        }
+    }, token);
+}
