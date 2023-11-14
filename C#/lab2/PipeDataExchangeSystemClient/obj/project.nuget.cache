@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "G3FWN8pZo0Jv0aMNtSElLRtMfAoubaYALsls4ypPOaDAdVRbsWsa+WzFueaCnR/900bdB4s8ZTU3mw9teGSgkA==",
+  "dgSpecHash": "n3OWiG2wH9QVYdXoXVber3T0EZc8eGHW9uqq+tSiGQDZI6duJsq/6GciARBaHxCU2In6cfXz18v3jyXWmnFxkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmitr\\OneDrive\\Рабочий стол\\шарага\\эвм и периф устройства\\EWM_labs\\C#\\lab2\\PipeDataExchangeSystemClient\\PipeDataExchangeSystemClient.csproj",
+  "projectFilePath": "/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+    "/home/augustinovich_dv/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "/home/augustinovich_dv/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/home/augustinovich_dv/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.22/microsoft.netcore.app.host.linux-x64.6.0.22.nupkg.sha512"
   ],
   "logs": []
 }

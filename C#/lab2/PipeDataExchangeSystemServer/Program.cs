@@ -1,6 +1,11 @@
-﻿using System.IO.Pipes;
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.IO.Pipes;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace PipeServer
 {
@@ -8,6 +13,7 @@ namespace PipeServer
     {
         public int Value;
         public bool Confirm;
+
         public override string ToString()
         {
             return $"Введенные данные = {Value}, Изменения = {Confirm}";
@@ -38,12 +44,6 @@ namespace PipeServer
 
                     adQueue.Enqueue(data, Convert.ToInt32(priority));
                     mutex.ReleaseMutex();
-
-                    using (var fileStream = new FileStream("input.txt", FileMode.Append, FileAccess.Write))
-                    using (var streamWriter = new StreamWriter(fileStream))
-                    {
-                        streamWriter.WriteLine($"{data.Value}, {data.Confirm}");
-                    }
                 }
             }, token);
         }
@@ -62,17 +62,23 @@ namespace PipeServer
                         {
                             mutex.WaitOne();
                             var data = adQueue.Dequeue();
-
                             mutex.ReleaseMutex();
-                            byte[] buffer = new byte[Unsafe.SizeOf<Data>()];
 
+                            byte[] buffer = new byte[Unsafe.SizeOf<Data>()];
                             MemoryMarshal.Write(buffer, ref data);
+
                             pipeStream.Write(buffer);
 
                             byte[] resBuffer = new byte[Unsafe.SizeOf<Data>()];
                             pipeStream.Read(resBuffer);
 
                             process.Add(MemoryMarshal.Read<Data>(resBuffer));
+
+                            using (var fileStream = new FileStream("input.txt", FileMode.Append, FileAccess.Write))
+                            using (var streamWriter = new StreamWriter(fileStream))
+                            {
+                                streamWriter.WriteLine($"{data.Value}, {data.Confirm}");
+                            }
                         }
                     }
                     catch (Exception)

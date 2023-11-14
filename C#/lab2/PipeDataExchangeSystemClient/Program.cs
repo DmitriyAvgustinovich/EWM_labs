@@ -38,11 +38,6 @@ namespace PipeClient
                     byte[] resBuffer = new byte[Unsafe.SizeOf<Data>()];
                     MemoryMarshal.Write(resBuffer, ref data);
 
-                    using (var fileStream = new FileStream("output.txt", FileMode.Append, FileAccess.Write))
-                    {
-                        fileStream.Write(resBuffer, 0, resBuffer.Length);
-                    }
-                    
                     pipeStream.Write(resBuffer);
                 }
             }
