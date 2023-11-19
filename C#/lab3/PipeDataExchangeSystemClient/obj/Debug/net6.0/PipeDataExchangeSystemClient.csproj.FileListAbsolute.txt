@@ -1,0 +1,84 @@
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.exe
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.deps.json
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.runtimeconfig.json
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.dll
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.GeneratedMSBuildEditorConfig.editorconfig
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfoInputs.cache
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfo.cs
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.csproj.CoreCompileInputs.cache
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.dll
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/refint/PipeDataExchangeSystemClient.dll
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.genruntimeconfig.cache
+D:/Orders/Dimitri/lab2/PipeDataExchangeSystemClient/PipeDataExchangeSystemClient/obj/Debug/net6.0/ref/PipeDataExchangeSystemClient.dll
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.exe
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.deps.json
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.runtimeconfig.json
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.dll
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfoInputs.cache
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfo.cs
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.csproj.CoreCompileInputs.cache
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.dll
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/refint/PipeDataExchangeSystemClient.dll
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.genruntimeconfig.cache
+C:/Users/dmitr/OneDrive/Рабочий стол/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/ref/PipeDataExchangeSystemClient.dll
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.exe
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.deps.json
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.runtimeconfig.json
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.dll
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.GeneratedMSBuildEditorConfig.editorconfig
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfoInputs.cache
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfo.cs
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.csproj.CoreCompileInputs.cache
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.dll
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/refint/PipeDataExchangeSystemClient.dll
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.genruntimeconfig.cache
+D:/эвм и периф устройства/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/ref/PipeDataExchangeSystemClient.dll
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.exe
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.deps.json
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.runtimeconfig.json
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.dll
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfoInputs.cache
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfo.cs
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.csproj.CoreCompileInputs.cache
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.dll
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/refint/PipeDataExchangeSystemClient.dll
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.genruntimeconfig.cache
+C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и периф устройства/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/ref/PipeDataExchangeSystemClient.dll
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.deps.json
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.runtimeconfig.json
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.dll
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/bin/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfoInputs.cache
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.AssemblyInfo.cs
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.csproj.CoreCompileInputs.cache
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.dll
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/refint/PipeDataExchangeSystemClient.dll
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.pdb
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/PipeDataExchangeSystemClient.genruntimeconfig.cache
+/home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemClient/obj/Debug/net6.0/ref/PipeDataExchangeSystemClient.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\bin\Debug\net6.0\PipeDataExchangeSystemClient.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\bin\Debug\net6.0\PipeDataExchangeSystemClient.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\bin\Debug\net6.0\PipeDataExchangeSystemClient.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\bin\Debug\net6.0\PipeDataExchangeSystemClient.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\bin\Debug\net6.0\PipeDataExchangeSystemClient.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\PipeDataExchangeSystemClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\PipeDataExchangeSystemClient.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\PipeDataExchangeSystemClient.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\PipeDataExchangeSystemClient.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\PipeDataExchangeSystemClient.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\refint\PipeDataExchangeSystemClient.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\PipeDataExchangeSystemClient.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\PipeDataExchangeSystemClient.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\PipeDataExchangeSystemClient\obj\Debug\net6.0\ref\PipeDataExchangeSystemClient.dll
