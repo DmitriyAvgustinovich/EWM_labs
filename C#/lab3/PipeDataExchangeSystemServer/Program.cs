@@ -15,6 +15,28 @@ namespace PipeServer
         }
     }
 
+    public static class IntegrationCalculator
+    {
+        public static double TrapezoidalRule(double a, double b, int n)
+        {
+            double h = (b - a) / n;
+            double result = (Function(a) + Function(b)) / 2.0;
+
+            for (int i = 1; i < n; i++)
+            {
+                double x = a + i * h;
+                result += Function(x);
+            }
+
+            return result * h;
+        }
+
+        private static double Function(double x)
+        {
+            return 2 * Math.Sin(x); // Замените на вашу функцию
+        }
+    }
+
     internal class Program
     {
         private static CancellationTokenSource cancellationTokenSource = new();
@@ -43,7 +65,7 @@ namespace PipeServer
             }, token);
         }
 
-        private static Task ServerTask(NamedPipeServerStream pipeStream, CancellationToken token)
+        private static Task ServerTask(NamedPipeServerStream pipeStream, CancellationToken token, double a, double b, int n)
         {
             return Task.Run(() =>
             {
@@ -64,7 +86,18 @@ namespace PipeServer
 
                             pipeStream.Write(buffer);
 
+                            double integralResult = IntegrationCalculator.TrapezoidalRule(a, b, n);
+                            Console.WriteLine($"Приближенное значение интеграла: {integralResult}");
+
+                            using (var fileStream = new FileStream("output.txt", FileMode.Append, FileAccess.Write))
+                            using (var streamWriter = new StreamWriter(fileStream))
+                            {
+                                streamWriter.WriteLine($"Integral Result: {integralResult}");
+                            }
+
                             byte[] resBuffer = new byte[Unsafe.SizeOf<Data>()];
+                            MemoryMarshal.Write(resBuffer, ref data);
+
                             pipeStream.Read(resBuffer);
 
                             process.Add(MemoryMarshal.Read<Data>(resBuffer));
@@ -76,8 +109,9 @@ namespace PipeServer
                             }
                         }
                     }
-                    catch (Exception)
+                    catch (Exception ex)
                     {
+                        Console.WriteLine($"Ошибка в сервере: {ex.Message}");
                     }
                 }
 
@@ -103,7 +137,11 @@ namespace PipeServer
 
             Console.WriteLine("Клиент подключен");
 
-            Task server = ServerTask(pipeStream, cancellationToken);
+            double a = 0;
+            double b = Math.PI;
+            int n = 1000;
+
+            Task server = ServerTask(pipeStream, cancellationToken, a, b, n);
             Task client = ClientTask(cancellationToken);
 
             await Task.WhenAll(server, client);

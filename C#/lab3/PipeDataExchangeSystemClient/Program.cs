@@ -41,8 +41,9 @@ namespace PipeClient
                     pipeStream.Write(resBuffer);
                 }
             }
-            catch
+            catch (Exception ex)
             {
+                Console.WriteLine($"Ошибка в клиенте: {ex.Message}");
             }
         }
     }
