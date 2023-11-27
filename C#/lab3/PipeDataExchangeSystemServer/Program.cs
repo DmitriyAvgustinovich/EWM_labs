@@ -33,7 +33,7 @@ namespace PipeServer
 
         private static double Function(double x)
         {
-            return 2 * Math.Sin(x); // Замените на вашу функцию
+            return 2 * Math.Sin(x);
         }
     }
 
