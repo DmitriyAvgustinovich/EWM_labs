@@ -1,0 +1,130 @@
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/bin/Debug/net7.0/Server.exe
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/bin/Debug/net7.0/Server.deps.json
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/bin/Debug/net7.0/Server.runtimeconfig.json
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/bin/Debug/net7.0/Server.dll
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/bin/Debug/net7.0/Server.pdb
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/Server.csproj.AssemblyReference.cache
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/Server.AssemblyInfoInputs.cache
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/Server.AssemblyInfo.cs
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/Server.csproj.CoreCompileInputs.cache
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/Server.dll
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/refint/Server.dll
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/Server.pdb
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/Server.genruntimeconfig.cache
+C:/Users/akbeke/Source/Repos/evil-labs_c-/Server/obj/Debug/net7.0/ref/Server.dll
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/bin/Debug/net7.0/Server
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/bin/Debug/net7.0/Server.deps.json
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/bin/Debug/net7.0/Server.runtimeconfig.json
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/bin/Debug/net7.0/Server.dll
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/bin/Debug/net7.0/Server.pdb
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/Server.csproj.AssemblyReference.cache
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/Server.AssemblyInfoInputs.cache
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/Server.AssemblyInfo.cs
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/Server.csproj.CoreCompileInputs.cache
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/Server.dll
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/refint/Server.dll
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/Server.pdb
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/Server.genruntimeconfig.cache
+/home/mikenon/Desktop/aksldmlkasdkmlasd/evil-labs_c-/evil-labs_c-/Server/obj/Debug/net7.0/ref/Server.dll
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\bin\Debug\net7.0\Server.exe
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\bin\Debug\net7.0\Server.dll
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\Server.dll
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\2\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\bin\Debug\net7.0\Server.exe
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\bin\Debug\net7.0\Server.dll
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\Server.dll
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\akbeke\source\repos\EVM_Csh_labs_2023\3\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\3\server\bin\Debug\net7.0\Server.exe
+C:\Users\3\server\bin\Debug\net7.0\Server.deps.json
+C:\Users\3\server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\3\server\bin\Debug\net7.0\Server.dll
+C:\Users\3\server\bin\Debug\net7.0\Server.pdb
+C:\Users\3\server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3\server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\3\server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\3\server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\3\server\obj\Debug\net7.0\Server.dll
+C:\Users\3\server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\3\server\obj\Debug\net7.0\Server.pdb
+C:\Users\3\server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\3\server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\bin\Debug\net7.0\Server.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\bin\Debug\net7.0\Server.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\bin\Debug\net7.0\Server.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\bin\Debug\net7.0\Server.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\Server.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\Server.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\3\server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\шарага\эвм и периф устройства\EWM_labs\C#\lab3\server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.exe
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.deps.json
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\bin\Debug\net7.0\Server.pdb
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.pdb
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab3\server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\bin\Debug\net7.0\Server.exe
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\bin\Debug\net7.0\Server.deps.json
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\bin\Debug\net7.0\Server.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\bin\Debug\net7.0\Server.pdb
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\Server.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\refint\Server.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\Server.pdb
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab3\PipeDataExchangeSystemServer\obj\Debug\net7.0\ref\Server.dll
