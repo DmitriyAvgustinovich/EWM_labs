@@ -2,7 +2,7 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-namespace Client;
+namespace PipeClient;
 class Program
 {
     public struct DataForm
