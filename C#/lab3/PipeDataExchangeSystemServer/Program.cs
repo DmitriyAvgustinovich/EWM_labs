@@ -15,7 +15,7 @@ namespace PipeServer
     {
         public double IntegralResult;
 
-        public override string ToString() => $"Результат интеграла = {IntegralResult}";
+        public override string ToString() => $"Результат вычисления интеграла = {IntegralResult}";
     }
 
     internal class Program
