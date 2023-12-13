@@ -31,6 +31,6 @@ modul = 255;
 if (key > 7)
 key = 255; 
 
-mosfet.digitalWrite(modul, key, level); // Устанавливаем уровень для ключа на модуле
+mosfet.digitalWrite(modul, key, level);
 }
 }
