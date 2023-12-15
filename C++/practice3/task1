@@ -1,37 +1,28 @@
-#include <WiFi.h>
 #include <Arduino.h>
+#include <WiFi.h>
 
-const char* ssid = "ASOIU";
-const char* password = "kaf.asoiu.48";
-const char* host = "www.google.com";
+void setup () {
+    WiFi.begin("ASOIU", "kaf.asoiu.48");
+    auto res = WiFi.waitForConnectResult();
 
-void setup() {
-Serial.begin(115200);
-
-WiFi.begin(ssid, password);
-
-Serial.println();
-Serial.println("Connecting to WiFi...");
-
-while (WiFi.status() != WL_CONNECTED) {
-delay(1000);
-Serial.println("Connecting to WiFi...");
-}
-
-Serial.println("Connected to WiFi");
-Serial.print("IP Address: ");
-Serial.println(WiFi.localIP());
+    if (res == WL_CONNECTED) {
+        auto ip = WiFi.localIP();
+        Serial.print(ip.toString());
+        Serial.print('\n');
+    } else {
+        Serial.print("error! can't connect to wi-fi!");
+        while (true)
+    }
 }
 
 void loop() {
-if (WiFi.status() == WL_CONNECTED) {
-if (WiFi.ping(host)) {
-Serial.print(host);
-Serial.println(" is reachable");
-} else {
-Serial.print(host);
-Serial.println(" is not reachable");
-}
-delay(5000);
-}
+    std::string host = Serial.readStringUntil('\n');
+
+    if (host.length() > 0) {
+        if (WiFi.ping(host) > 0) {
+            Serial.printf("%s is available\n", host.c_str());
+        } else {
+            Serial.printf("%s: host is unreachable\n", host.c_str());
+        }
+    }
 }
