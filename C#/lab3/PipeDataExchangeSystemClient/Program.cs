@@ -42,7 +42,7 @@ class Program
 
             var writeResult = new IntegralResultScreen { IntegralResult = result };
             MemoryMarshal.Write(spam, ref writeResult);
-            
+
             await stream.WriteAsync(spam);
         }
         catch

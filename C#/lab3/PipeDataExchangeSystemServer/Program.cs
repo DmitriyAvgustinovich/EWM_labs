@@ -101,47 +101,28 @@ namespace PipeServer
         {
             id++;
             string name = $"tonel_{id}";
-            using Process myProcess = new();
-
-            myProcess.StartInfo.FileName = "C:\\Users\\User\\Desktop\\EWM_labs\\C#\\lab3\\PipeDataExchangeSystemClient\\bin\\Debug\\net7.0\\Client.exe";
-            myProcess.StartInfo.Arguments = name;
-            myProcess.Start();
-
-            var stream = new NamedPipeServerStream($"{name}", PipeDirection.InOut);
-            await stream.WaitForConnectionAsync();
-
-            byte[] spam = new byte[Unsafe.SizeOf<DataForm>()];
-            MemoryMarshal.Write(spam, ref data);
-            await stream.WriteAsync(spam, token);
-
-            byte[] array = new byte[Unsafe.SizeOf<IntegralResultScreen>()];
-            await stream.ReadAsync(array, token);
-
-            IntegralResultScreen resultData;
-            resultData.IntegralResult = CalculateIntegral(data.ArgumentOne, data.ArgumentTwo);
-
-            MemoryMarshal.Write(array, ref resultData);
-            exampleIntegral.Add(MemoryMarshal.Read<IntegralResultScreen>(array));
-
-            myProcess.WaitForExit();
-        }
-
-        private static double CalculateIntegral(double a, double b)
-        {
-            const int steps = 10000;
-            double h = (b - a) / steps;
-            double result = 0;
-
-            for (int i = 0; i < steps; i++)
+            using (Process myProcess = new Process())
             {
-                double x0 = a + i * h;
-                double x1 = a + (i + 1) * h;
-                result += (2 * Math.Sin(x0) + 2 * Math.Sin(x1)) * h / 2;
+
+                myProcess.StartInfo.FileName = "C:\\Users\\User\\Desktop\\EWM_labs\\C#\\lab3\\PipeDataExchangeSystemClient\\bin\\Debug\\net7.0\\Client.exe";
+                myProcess.StartInfo.Arguments = name;
+                myProcess.Start();
+
+                var stream = new NamedPipeServerStream($"{name}", PipeDirection.InOut);
+                await stream.WaitForConnectionAsync();
+
+                byte[] spam = new byte[Unsafe.SizeOf<DataForm>()];
+                MemoryMarshal.Write(spam, ref data);
+                await stream.WriteAsync(spam, token);
+
+                byte[] array = new byte[Unsafe.SizeOf<IntegralResultScreen>()];
+                await stream.ReadAsync(array, token);
+
+                exampleIntegral.Add(MemoryMarshal.Read<IntegralResultScreen>(array));
+
+                myProcess.WaitForExit();
             }
-
-            return result;
         }
-
 
         static async Task Main(string[] args)
         {
