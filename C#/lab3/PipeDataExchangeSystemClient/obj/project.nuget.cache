@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vl/v5awvO/gKEZyKcuTD6JVGtuLmxiXEFgLO8sCgPiEA2ZB8LDejHQxoIO5inc/EgwN9fgdBrXBuMNWyObho/g==",
+  "dgSpecHash": "KcOd5tks+xGfShxuo0MOLyhCQ3p44Cw/Zk0yTGBIVU5/F8Y7UZtX4dgzorXm0jGjKcP+TyIfoTVLskRD0Ajdmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\EWM_labs\\C#\\lab3\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\EWM_labs\\C#\\lab3\\PipeDataExchangeSystemClient\\Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -34,7 +34,7 @@ class Program
             for (i = 0; i < 1000; i++)
             {
                 double xi = i * h + h2;
-                result += -2 * Math.Sin(xi);
+                result += 2 * Math.Sin(xi);
             }
 
             result *= h;
