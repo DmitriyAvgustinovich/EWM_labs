@@ -68,3 +68,17 @@ C:/Users/dmitr/OneDrive/Рабочий стол/шарага/эвм и пери�
 /home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemServer/obj/Debug/net6.0/PipeDataExchangeSystemServer.pdb
 /home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemServer/obj/Debug/net6.0/PipeDataExchangeSystemServer.genruntimeconfig.cache
 /home/augustinovich_dv/Рабочий стол/EWM_labs/C#/lab2/PipeDataExchangeSystemServer/obj/Debug/net6.0/ref/PipeDataExchangeSystemServer.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\bin\Debug\net6.0\PipeDataExchangeSystemServer.exe
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\bin\Debug\net6.0\PipeDataExchangeSystemServer.deps.json
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\bin\Debug\net6.0\PipeDataExchangeSystemServer.runtimeconfig.json
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\bin\Debug\net6.0\PipeDataExchangeSystemServer.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\bin\Debug\net6.0\PipeDataExchangeSystemServer.pdb
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\PipeDataExchangeSystemServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\PipeDataExchangeSystemServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\PipeDataExchangeSystemServer.AssemblyInfo.cs
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\PipeDataExchangeSystemServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\PipeDataExchangeSystemServer.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\refint\PipeDataExchangeSystemServer.dll
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\PipeDataExchangeSystemServer.pdb
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\PipeDataExchangeSystemServer.genruntimeconfig.cache
+C:\Users\User\Desktop\EWM_labs\C#\lab2\PipeDataExchangeSystemServer\obj\Debug\net6.0\ref\PipeDataExchangeSystemServer.dll
