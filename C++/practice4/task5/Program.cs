@@ -21,7 +21,7 @@ if (DeviceHelper.GetGpioExpanderDevices() is [var settings])
             new ReadOnlySpan<int>(new[] {picoAddress}) ) 
         is [var picoSettings])
     {
-        var board = new MicrocontrollerBoard<PwmRequest, Response>(picoSettings);
+        var board = new MicrocontrollerBoard<Req, Res>(picoSettings);
         
         encoder.ValueChanged += (o, args) =>
         {
@@ -31,20 +31,20 @@ if (DeviceHelper.GetGpioExpanderDevices() is [var settings])
     }
     else
     {
-        throw new IoTDeviceException("RPi Pico not found!!!");
+        throw new IoTDeviceException("RPi Pico not found");
     }
 }
 else
 {
-    throw new IoTDeviceException("Expander not found!!!");
+    throw new IoTDeviceException("Expander not found");
 }
 
-internal struct PwmRequest
+internal struct Req
 {
     public double Duty;
 }
 
-internal struct Response
+internal struct Res
 {
     private bool _-;
 }

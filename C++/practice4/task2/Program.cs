@@ -21,10 +21,10 @@ if (DeviceHelper.GetGpioExpanderDevices() is [var settings])
     encoder.ValueChanged += (_, args) =>
     {
         expander.AnalogWrite(keyPin, (int)args.Value);
-        Console.WriteLine($"Speed: {args.Value / 2.55}%");
+        Console.WriteLine($"Speed: {args.Value}%");
     };
 }
 else
 {
-    throw new IoTDeviceException("Expander not found!!!");
+    throw new IoTDeviceException("Expander not found");
 }

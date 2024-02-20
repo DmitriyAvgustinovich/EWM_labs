@@ -25,5 +25,5 @@ if (DeviceHelper.GetGpioExpanderDevices() is [var settings])
 }
 else
 {
-    throw new IoTDeviceException("Expander not found!!!");
+    throw new IoTDeviceException("Expander not found");
 }
