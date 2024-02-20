@@ -5,9 +5,7 @@ using Raven.Iot.Device;
 using Raven.Iot.Device.Ina219;
 using UnitsNet;
 
-var ina219Settings = DeviceHelper.GetIna219Devices() is [var settings];
-
-if (ina219Settings)
+if (DeviceHelper.GetIna219Devices() is [var settings])
 {
     var calibrator = Ina219Calibrator.Default with
     {
@@ -15,29 +13,30 @@ if (ina219Settings)
         IMax = ElectricCurrent.FromAmperes(0.6)
     };
 
-    var calibratedIna219 = calibrator.CreateCalibratedDevice(settings);
+    var ina219 = calibrator.CreateCalibratedDevice(settings);
 
-    await using var fileWriter = new StreamWriter("file.csv");
-    await using var csvWriter = new CsvWriter(fileWriter, CultureInfo.InvariantCulture);
-    await csvWriter.WriteRecordsAsync(GenerateMeasurements(calibratedIna219));
+    await using var writer = new StreamWriter("measure.csv");
+    await using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);
+    await csv.WriteRecordsAsync(GetMeasurements(ina219));
 }
 
 return;
 
-async IAsyncEnumerable<Measurements> GenerateMeasurements(Ina219 device)
+
+async IAsyncEnumerable<Measurements> GetMeasurements(Ina219 device)
 {
-    for (var decaseconds = 0; decaseconds < 6; decaseconds++)
+    foreach (var decaseconds in Enumerable.Range(0, 6))
     {
-        var currentAmperes = device.ReadCurrent().Amperes;
-        var powerWatts = device.ReadPower().Watts;
-        var voltageVolts = (double)powerWatts / currentAmperes;
+        var i = device.ReadCurrent().Amperes;
+        var p = device.ReadPower().Watts;
+        var v = (double)p / i;
 
         yield return new Measurements
         {
-            Timestamp = decaseconds,
-            Watts = (double)powerWatts,
-            Amperes = currentAmperes,
-            Volts = voltageVolts
+            CurrentAmperes = i,
+            PowerWatts = (double)p,
+            VoltageVolts = v,
+            TimestampSeconds = decaseconds,
         };
 
         await Task.Delay(10000);
@@ -46,8 +45,8 @@ async IAsyncEnumerable<Measurements> GenerateMeasurements(Ina219 device)
 
 internal struct Measurements
 {
-    public int Timestamp;
-    public double Watts;
-    public double Amperes;
-    public double Volts;
+    public int TimestampSeconds;
+    public double PowerWatts;
+    public double CurrentAmperes;
+    public double VoltageVolts;
 }

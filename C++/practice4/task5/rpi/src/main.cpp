@@ -1,9 +1,9 @@
 #include <Arduino.h>
 
-const int pin = D25;
+const int fan_pin = D25;
 
 void setup() {
-    pinMode(pin, OUTPUT);
+    pinMode(fan_pin, OUTPUT);
     analogWriteRange(4095);
     analogWriteFreq(25000);
 }

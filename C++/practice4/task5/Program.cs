@@ -4,48 +4,47 @@ using Raven.Iot.Device;
 using Raven.Iot.Device.GpioExpander;
 using Raven.Iot.Device.MicrocontrollerBoard;
 
-const int PicoAddress = 2;
-var encoderPinA = DeviceHelper.WiringPiToBcm(0);
-var encoderPinB = DeviceHelper.WiringPiToBcm(1);
+const int picoAddress = 2;
+var pinA = DeviceHelper.WiringPiToBcm(0);
+var pinB = DeviceHelper.WiringPiToBcm(1);
 
-if (DeviceHelper.GetGpioExpanderDevices() is [var gpioExpanderSettings])
+if (DeviceHelper.GetGpioExpanderDevices() is [var settings])
 {
-    var gpioExpander = new GpioExpander(gpioExpanderSettings);
-    var encoder = new ScaledQuadratureEncoder(encoderPinA, encoderPinB, PinEventTypes.Falling,
+    var expander = new GpioExpander(settings);
+    var encoder = new ScaledQuadratureEncoder(pinA, pinB, PinEventTypes.Falling,
         1,
         0.01,
         0,
         1);
-
     if (DeviceHelper.I2cDeviceSearch(
             new ReadOnlySpan<int>(new[] {1}),
-            new ReadOnlySpan<int>(new[] {PicoAddress}) ) 
+            new ReadOnlySpan<int>(new[] {picoAddress}) ) 
         is [var picoSettings])
     {
-        var microcontrollerBoard = new MicrocontrollerBoard<Request, Response>(picoSettings);
+        var board = new MicrocontrollerBoard<PwmRequest, Response>(picoSettings);
         
-        encoder.ValueChanged += (sender, args) =>
+        encoder.ValueChanged += (o, args) =>
         {
-            microcontrollerBoard.WriteRequest(new PwmRequest {Duty = args.Value});
-            _ = microcontrollerBoard.ReadResponse();
+            board.WriteRequest(new PwmRequest {Duty = args.Value});
+            _ = board.ReadResponse();
         };
     }
     else
     {
-        throw new IoTDeviceException("Raspberry Pi Pico не найден");
+        throw new IoTDeviceException("RPi Pico not found!!!");
     }
 }
 else
 {
-    throw new IoTDeviceException("Expander не найден");
+    throw new IoTDeviceException("Expander not found!!!");
 }
 
-internal struct Request
+internal struct PwmRequest
 {
     public double Duty;
 }
 
 internal struct Response
 {
-    private bool _;
+    private bool _-;
 }
